@@ -1,6 +1,7 @@
-title: Minimal theme
+title: Cheater Database
+subtitle: By Ratclick
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Cheater Database is a project started in November 2024 for keeping track and stats of cheaters in video games.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
